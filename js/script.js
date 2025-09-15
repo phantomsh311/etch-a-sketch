@@ -1,4 +1,4 @@
-let currentColor = "black"; // color por defecto
+let currentColor = "black";
 
 function populateBoard(size) {
   const board = document.querySelector(".board");
