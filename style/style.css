@@ -1,0 +1,28 @@
+.board {
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
+.title, .text{
+    font-family: fantasy;
+    font-size: large;
+    text-align: center;
+    
+    
+}
+.text{
+    color: cyan;
+}
+
+body{
+    background-color: lightslategray;
+    display: flex;
+}
+
+#gray, #blue, #random, #reset{
+    background-color: chartreuse;
+}
+
+#setSize{
+    background-color: chocolate;
+}
